@@ -1,4 +1,6 @@
 {
+    "title": "Dankon Amiko",
+    "author": "Claude Piron",
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
